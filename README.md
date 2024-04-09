@@ -3,10 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Kagi, full-stack developer in learning</div>  
+### <div align="center">I'm Kagi, developer in learning</div>  
   
-
-- 🌱 I’m currently learning Vue, React JS/Native, Flutter and Node  
   
 
 <br/>  
